@@ -1,3 +1,3 @@
 <template>
-  <span>Hola desde el home</span>
+  <span>Hola desde el home con netlify</span>
 </template>
