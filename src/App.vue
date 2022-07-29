@@ -3,7 +3,7 @@
     <!-- Menu -->
     <div class="flex flex-col justify-between w-1/6 bg-black">
       <div class="">
-        <img class="foto_pefil" src="images/perfil.jpg" alt="Perfil">
+<!--        <img class="foto_pefil" src="images/perfil.jpg" alt="Perfil">-->
         <span>Daniel Suescun</span>
       </div>
       <div class="bg-green-600">#2</div>
